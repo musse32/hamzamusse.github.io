@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Data Engineer and Analytics Consultant with 4 years of experience."
   location         : "Washington, DC"
-  employer         :
+  employer         : "ASR Analytics"
   pubmed           : ""
   googlescholar    : ""
   email            :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/musse32"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/hamzamusse/"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@hmusse0"
+  twitter          : "https://twitter.com/hmusse0"
   vine             :
   weibo            :
   xing             :
